@@ -1,6 +1,6 @@
 ﻿# Cash-Back
  
- ## Projeto esta sendo desenvolvido com ReactJs, NodeJs, TypeScript e MySql, e fornece uma api Rest para controle financeiro com controle de acessos com token JWT.
+ ## Projeto esta sendo desenvolvido com ReactJs, NodeJs, TypeScript, MySql e Docker, e fornece uma api Rest para controle financeiro com controle de acessos com token JWT.
  
  > Status do Projeto: Em desenvolvimento 👨‍💻
  
@@ -16,3 +16,4 @@
 - [TypeOrm](https://typeorm.io/)
 - [TSyringe](https://github.com/Microsoft/tsyringe)
 - [Babel](https://babeljs.io/)
+- [Docker](https://www.docker.com/)
